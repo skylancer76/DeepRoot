@@ -10,4 +10,4 @@ DeepRoot is a meditation app built for the **Swift Student Challenge 2025**, des
 ## 🚀 Getting Started  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/DeepRoot.git
+   git clone https://github.com/skylancer76/DeepRoot.git
